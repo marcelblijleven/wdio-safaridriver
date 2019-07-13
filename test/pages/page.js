@@ -11,7 +11,6 @@ export default class Page {
 
   /**
    * Navigates to the page
-   * @returns {ThisType}
    */
   navigateTo() {
     browser.url(this.url)
