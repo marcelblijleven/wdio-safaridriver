@@ -1,0 +1,32 @@
+{
+  "name": "wdio-safaridriver",
+  "version": "1.0.0",
+  "description": "POC for wdio with Safaridriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelblijleven/wdio-safaridriver.git"
+  },
+  "keywords": [
+    "wdio",
+    "safari",
+    "driver"
+  ],
+  "author": "Marcel Blijleven <marcelblijleven@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelblijleven/wdio-safaridriver/issues"
+  },
+  "homepage": "https://github.com/marcelblijleven/wdio-safaridriver#readme",
+  "devDependencies": {
+    "@wdio/cli": "^5.11.2",
+    "@wdio/local-runner": "^5.11.2",
+    "@wdio/mocha-framework": "^5.11.0",
+    "@wdio/selenium-standalone-service": "^5.11.2",
+    "@wdio/spec-reporter": "^5.11.0",
+    "@wdio/sync": "^5.11.0"
+  }
+}
