@@ -1,9 +1,9 @@
 # wdio-safaridriver
-POC for wdio with safaridriver
+POC for wdio with Safari driver
 
 ## Setup
 ### Safari driver
-Make sure you have safaridriver by running the following command
+Make sure you have Safari driver by running the following command
 ```bash
 /usr/bin/safaridriver --version
 ```
@@ -13,7 +13,7 @@ The output should be something like
 Included with Safari 13.0 (15608.1.31.1.2)
 ```
 
-If you've never used safaridriver on your mac before, you need to enable it by using 
+If you've never used Safari driver on your mac before, you need to enable it by using 
 ```bash
 safaridriver --enable
 ```
